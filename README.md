@@ -1,6 +1,6 @@
 # Lyrical-GraphQL
 
-A simple project that allows users to add a song title and different users can add different lyrics to it and like each other's lyrics 
+A simple project created to learn the GrapghQL concepts. The project allows users to add a song title and different users can add different lyrics to it and like each other's lyrics 
 
 Tech stack: 
   * Node.js
